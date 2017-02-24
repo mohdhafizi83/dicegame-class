@@ -2,7 +2,7 @@
 
 /**
  * @author Hafizi <mohdhafizi83@gmail.com>
- * @example http://mohdhafizi.projek.my/Dicegame.php Dicegame Demo.
+ * @example http://mohdhafizi.projek.my/portfolio/Dicegame.php Dicegame Demo.
  */
 class Dicegame
 {
